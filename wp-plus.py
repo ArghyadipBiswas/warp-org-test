@@ -24,7 +24,7 @@ print ("[+] THIS SCRIPT CODDED BY ALIILAPRO")
 print ("[-] SITE: aliilapro.github.io") 
 print ("[-] TELEGRAM: aliilapro")
 print ("--------")
-referrer = 'c0d67018-a392-4df9-9b1d-af2c1a1585a4'
+referrer = 'da6e08a0-eecf-49f0-b36d-bffcc4245dcb'
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
